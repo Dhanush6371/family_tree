@@ -1,0 +1,13 @@
+Child,Parent,Relationship,Generation
+John,Root,Child,1
+Emily,Root,Child,1
+Lisa,John,Child,2
+Mike,John,Child,2
+Sophia,Emily,Child,2
+Daniel,Emily,Child,2
+Rachel,Lisa,Child,3
+Kevin,Lisa,Child,3
+Oliver,Mike,Child,3
+Emma,Mike,Child,3
+,,,
+,,,
